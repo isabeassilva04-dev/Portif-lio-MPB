@@ -1,5 +1,4 @@
 
-@@ -0,0 +1,137 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -7,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <title>Tropicália</title>
+    <title>Musica Popular Brasileira</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="styles.css">
@@ -17,7 +16,7 @@
     <header class=" p-5">
 
         <nav class="container d-flex justify-content-between align-items-center" >
-            <img src="Downloads/Brasil.jpg" class="nav-img " loading="lazy">
+            <img src="Downloads/imagem.jpg" class="nav-img " loading="lazy">
             <ul class="nav mt-5">
                 <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
@@ -48,7 +47,7 @@
                         class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero
                         conhecer!</a>
                 </div>
-                <img src="img/lossy-page1-640px-Os_Mutantes.tif (1).png" alt="A imagem apresenta o grupo musical Os mutantes, sao tres pessoas cantando em um microfone" title="Os mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
+                <alt="A imagem apresenta uma bandeira do Brasil title="Os mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
 
               </div>
         </section>
@@ -56,11 +55,11 @@
         <section id="MPB" class="my-5 pt-6 secao-MPB" tabindex="0" aria-label="Seção explicativa sobre o MPB">
             <div class="container d-flex align-items-center ">
                 <div class="col-4 d-flex justify-content-center fundo-galeria">
-                    <img src="" class="rounded-pill" width="273" height="331" loading="lazy">
-                    <img src="" class="rounded-pill" width="273" height="331" loading="lazy">
+                    <img src="Downloads/Os_Mutantes_1971.jpg" class="rounded-pill" width="273" height="331" loading="lazy">
+                    <img src="" class="rounded-pill" width="293" height="331" loading="lazy">
                 </div>
                 <div class="col-5">
-                    <h2>O que foi é MPB?</h2>
+                    <h2>O que é MPB?</h2>
                     <p class="p-2">A música popular brasileira, conhecida como MPB, é um gênero musical. Tem relação com a produção nacional desenvolvida a partir de um movimento cultural surgido após o golpe militar de 1964.
 A maioria das músicas produzidas no período contestava a ditadura, trazendo questionamentos sobre a situação brasileira de forma poética.
 Já quando se fala da música brasileira com caráter popular, refere-se ao conjunto de manifestações culturais de influência indígena, africana e europeia no país. Fonte: Toda Matéria</p>
@@ -74,20 +73,20 @@ Já quando se fala da música brasileira com caráter popular, refere-se ao conj
 
                 <div class="row justify-content-md-center">
                     <div class="col-md-4">
-                        <img src="Downloads/Djavan_San_Javier_Jazz_2023_11.jpg"
+                        <img src="Downloads/djavan 2.jpg"
                             class="img-fluid rounded-5" loading="lazy">
                     </div>
                     <div class="col-md-4">
-                        <img src="img/lossy-page1-640px-Os_Mutantes_2.tif.jpg" class="img-fluid rounded-5"
+                        <img src="Downloads/cazuza.jpg" class="img-fluid rounded-5"
                             loading="lazy">
                     </div>
                 </div>
                 <div class="row mt-4  justify-content-md-center">
                     <div class="col-md-4">
-                        <img src="Downloads/Fernando_Rosa_-_BAIXO.jpg" class="img-fluid rounded-5" loading="lazy">
+                        <img src="Downloads/album rita lee.jpg" class="img-fluid rounded-5" loading="lazy">
                     </div>
                     <div class="col-md-4">
-                        <img src="Downloads/Legião Urbana.jpg"
+                        <img src="Downloads/legião.jpg"
                             class="img-fluid rounded-5" loading="lazy">
                     </div>
                 </div>
